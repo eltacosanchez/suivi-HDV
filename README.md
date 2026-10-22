@@ -1,6 +1,6 @@
 # Suivi HDV pour Dofus 3
 
-Outil Windows qui relève tout seul les prix de l'Hôtel de vente quand tu regardes une ressource dans Dofus : prix par lot (x1, x10, x100, x1000), prix moyen, évolution dans le temps et graphiques.
+Outil Windows qui relève tout seul les prix de l'Hôtel de vente quand tu regardes une ressource dans Dofus : prix par lot (x1, x10, x100, x1000), prix moyen, évolution dans le temps et graphiques. Il compte aussi ce que tu dépenses et ce que tu gagnes à l'HDV.
 
 Simples captures d'écran : il ne touche pas au jeu et ne clique jamais à ta place. Gratuit, sans compte, sans connexion à Ankama. Projet de fan non officiel.
 
@@ -20,6 +20,7 @@ Il faut Windows 10 ou 11 avec la langue française installée (c'est déjà le c
 
 - Ouvre l'Hôtel de vente dans Dofus et clique sur une ressource : ses prix sont relevés tout seuls.
 - Sinon, appuie sur **F9** pour capturer la fiche.
+- Onglet **Dépenses & gains** : tes achats et tes ventes à l'HDV sont lus dans le chat, avec les totaux du jour, de la semaine, du mois et de l'année, et le bilan.
 - Une fiche mal lue arrive dans « Captures en attente » et est réessayée toute seule.
 - Tu as aussi le [Compteur XP](https://github.com/eltacosanchez/compteur-xp-dofus) ? Mets les dossiers `HDV` et `Compteur XP` côte à côte : il estimera la valeur de ton butin avec tes prix.
 
