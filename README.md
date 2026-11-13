@@ -21,6 +21,8 @@ Il faut Windows 10 ou 11 avec la langue française installée (c'est déjà le c
 - Ouvre l'Hôtel de vente dans Dofus et clique sur une ressource : ses prix sont relevés tout seuls.
 - Sinon, appuie sur **F9** pour capturer la fiche.
 - Onglet **Dépenses & gains** : tes achats et tes ventes à l'HDV sont lus dans le chat, avec les totaux du jour, de la semaine, du mois et de l'année, et le bilan.
+- **Calculateur de recette** : le coût d'un objet à fabriquer d'après tes prix relevés, et s'il vaut mieux le fabriquer ou l'acheter.
+- Un onglet par serveur de jeu, chacun avec ses prix, ses achats et ses ventes.
 - Une fiche mal lue arrive dans « Captures en attente » et est réessayée toute seule.
 - Tu as aussi le [Compteur XP](https://github.com/eltacosanchez/compteur-xp-dofus) ? Mets les dossiers `HDV` et `Compteur XP` côte à côte : il estimera la valeur de ton butin avec tes prix.
 
