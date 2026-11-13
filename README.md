@@ -28,6 +28,14 @@ Il faut Windows 10 ou 11 avec la langue française installée (c'est déjà le c
 
 Tout est expliqué dans le fichier `LISEZ-MOI.txt` du dossier.
 
+## Suivi HDV Wakfu (première version, en test)
+
+Le même outil pour l'Hôtel de vente de **Wakfu** : il relève le prix le moins cher, les 5 offres les moins chères et la quantité disponible de chaque objet affiché, et garde l'historique. C'est un programme à part, qui s'installe de la même façon et se met à jour tout seul.
+
+**[⬇ Télécharger Suivi HDV Wakfu.zip](https://github.com/eltacosanchez/suivi-HDV/raw/main/Wakfu/Suivi%20HDV%20Wakfu.zip)**
+
+Le relevé des prix a été vérifié sur des captures d'écran, pas encore longuement en jeu. Les achats, les ventes et le calculateur de recette ne sont pas encore adaptés à Wakfu.
+
 ## Mises à jour
 
 Elles sont **automatiques** : au démarrage, le Suivi HDV regarde s'il existe une nouvelle version ici. Si oui, un bouton doré **« Installer la v… »** apparaît en haut : un clic, et c'est installé. Tes relevés de prix sont gardés.
